@@ -1,5 +1,5 @@
 using UnityEngine;
-namespace Helper
+namespace Instance
 {
     public class MonoSingleton<T> : MonoBehaviour where T : MonoSingleton<T>
     {

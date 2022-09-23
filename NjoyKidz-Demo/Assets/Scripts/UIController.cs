@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using Helper;
+using Instance;
 using DG.Tweening;
 
 public class UIController : MonoSingleton<UIController>
