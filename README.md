@@ -1,4 +1,4 @@
 # NjoyKidz Demo
 
-https://user-images.githubusercontent.com/73650840/191989383-9ec3ae21-0a2a-4e99-97c4-639149008ee1.mov
+https://user-images.githubusercontent.com/73650840/191994670-a50bf237-32ab-4af5-979e-1c1f50aca10f.mov
 
